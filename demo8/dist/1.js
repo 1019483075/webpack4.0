@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,,,function(n,e,o){"use strict";o.r(e);o(4);e.default=function(){const n=document.createElement("div");n.innerHTML="Dell Lee",document.body.appendChild(n)}},function(n,e,o){}]]);

@@ -1,0 +1,1 @@
+console.log('测试 webpack打包js文件');
